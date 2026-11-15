@@ -2,12 +2,6 @@
 
 A modern mobile application designed for Electric Vehicle (EV) owners in Turkey to easily track real-time charging unit prices and discover exclusive promotional campaigns across various charging networks.
 
-## 📱 Screenshots
-
-| Unit Prices (Birim Fiyatlar) | Campaigns (Kampanyalar) |
-| :---: | :---: |
-| <img src="image_937a21.png" width="250"> | <img src="image_937a04.png" width="250"> |
-
 ## ✨ Features
 
 *   **Real-Time Pricing:** Stay updated with the latest AC, DC, and HPC (High Power Charging) unit prices for major EV charging operators in Turkey (e.g., Tesla, ZES, Trugo, WAT).
