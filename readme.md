@@ -1,6 +1,6 @@
 # EV Charge Price & Campaign Tracker ⚡🚗
 
-A modern mobile application designed for Electric Vehicle (EV) owners in Turkey to easily track real-time charging unit prices and discover exclusive promotional campaigns across various charging networks.
+A modern mobile application designed for Electric Vehicle (EV) owners to easily track real-time charging unit prices and discover exclusive promotional campaigns across various charging networks.
 
 ## ✨ Features
 
