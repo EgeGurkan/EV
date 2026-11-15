@@ -1,0 +1,26 @@
+[
+  {
+    "title": "ZES - Vodafone Red Kampanyası",
+    "description": "Vodafone Red müşterilerine halka açık ZES istasyonlarında %15 indirim!",
+    "companyName": "ZES",
+    "isNew": true,
+    "promoCode": "VODAFONE_RED_ZES",
+    "detailedDescription": "Vodafone Red'lilere özel ZES halka açık elektrikli araç şarj istasyonlarında %15 indirim fırsatı! İndirimden faydalanmak için Vodafone Yanımda uygulamasından aldığınız kodu, ZES uygulamasında Profil > Kampanyalar menüsüne eklemeniz yeterlidir."
+  },
+  {
+    "title": "Trugo - Togg Özel Kampanyası",
+    "description": "Togg T10X kullanıcılarına tüm Trugo istasyonlarında %25 indirim!",
+    "companyName": "Trugo",
+    "isNew": true,
+    "promoCode": null,
+    "detailedDescription": "Yerli otomobil Togg T10X sahiplerine özel! Tüm Trugo DC ve HPC yüksek hızlı şarj istasyonlarında yapacağınız şarj işlemlerinde sabit %25 indirimden faydalanabilirsiniz. Trugo uygulamanıza Togg'unuza ait şasi numarası (VIN) kayıtlı ise indirim doğrudan sepetinize yansıtılır."
+  },
+  {
+    "title": "ZES & Zorlu Enerji Ortaklığı",
+    "description": "Zorlu Enerji mesken abonelerine ZES'te %10 İndirim.",
+    "companyName": "ZES",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Evinde Zorlu Enerji elektriğini kullanan müşterilerimize özel, tüm Türkiye'deki ZES şarj noktalarında geçerli %10 anında indirim uygulaması başladı. Zorlu Enerji TC kimlik numaranızla hesabınızı eşleştirerek indirimi kullanmaya başlayabilirsiniz."
+  },
+]
