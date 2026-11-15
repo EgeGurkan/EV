@@ -1,26 +1,178 @@
 [
   {
-    "title": "ZES - Vodafone Red Kampanyası",
-    "description": "Vodafone Red müşterilerine halka açık ZES istasyonlarında %15 indirim!",
-    "companyName": "ZES",
-    "isNew": true,
-    "promoCode": "VODAFONE_RED_ZES",
-    "detailedDescription": "Vodafone Red'lilere özel ZES halka açık elektrikli araç şarj istasyonlarında %15 indirim fırsatı! İndirimden faydalanmak için Vodafone Yanımda uygulamasından aldığınız kodu, ZES uygulamasında Profil > Kampanyalar menüsüne eklemeniz yeterlidir."
-  },
-  {
-    "title": "Trugo - Togg Özel Kampanyası",
-    "description": "Togg T10X kullanıcılarına tüm Trugo istasyonlarında %25 indirim!",
-    "companyName": "Trugo",
-    "isNew": true,
+    "title": "Tesla - 2026 Ücretsiz Supercharge Yarışması",
+    "description": "2026 şarj etkinliğine göre seçilecek 9 kullanıcıya ücretsiz Supercharge.",
+    "companyName": "Tesla",
+    "isNew": false,
     "promoCode": null,
-    "detailedDescription": "Yerli otomobil Togg T10X sahiplerine özel! Tüm Trugo DC ve HPC yüksek hızlı şarj istasyonlarında yapacağınız şarj işlemlerinde sabit %25 indirimden faydalanabilirsiniz. Trugo uygulamanıza Togg'unuza ait şasi numarası (VIN) kayıtlı ise indirim doğrudan sepetinize yansıtılır."
+    "detailedDescription": "Geçerlilik: 1 Ocak–31 Aralık 2026. Üç bölgede seyahat, farklı tesis ziyareti ve şarj edilen enerji kategorilerinde toplam 9 kazanan seçilir. Ödül, kazanan Tesla aracının sahipliği sürdüğü müddetçe geçerlidir. Kayıtlar Aralık 2026'da Tesla uygulamasındaki 2026 Pasaport üzerinden açılır; 1 Ocak 2027'den önce katılmak gerekir. Ticari araçlar ve mevcut ücretsiz Supercharge sahibi araçlar kapsam dışıdır. Sonuçlar Ocak 2027'de açıklanır."
   },
   {
-    "title": "ZES & Zorlu Enerji Ortaklığı",
-    "description": "Zorlu Enerji mesken abonelerine ZES'te %10 İndirim.",
+    "title": "ZES - Vodafone Red Kampanyası",
+    "description": "Red Premium ve Red Elite müşterilerine %15 şarj indirimi.",
     "companyName": "ZES",
     "isNew": false,
     "promoCode": null,
-    "detailedDescription": "Evinde Zorlu Enerji elektriğini kullanan müşterilerimize özel, tüm Türkiye'deki ZES şarj noktalarında geçerli %10 anında indirim uygulaması başladı. Zorlu Enerji TC kimlik numaranızla hesabınızı eşleştirerek indirimi kullanmaya başlayabilirsiniz."
+    "detailedDescription": "Geçerlilik: 16 Şubat–31 Aralık 2026. Bireysel ZES üyeleri, her şarj öncesinde Vodafone Happy'den aldıkları tek kullanımlık kodu ZES uygulamasında Profil > Kampanyalar > Kampanya Kodu Ekle alanına tanımlar. Red Premium ayda 2, Red Elite ayda 3 kez yararlanabilir. Halka açık AC, DC ve HPC soketlerinde geçerlidir; Solarşarj ve kurumsal müşteriler hariçtir."
   },
+  {
+    "title": "ZES - Metro Kampanyası",
+    "description": "Seçili Metro mağazalarında 5.000 TL alışverişe 30 kWh şarj hediyesi.",
+    "companyName": "ZES",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 30 Ekim–31 Aralık 2026. Nilüfer, Kepez, Mersin, Kozyatağı ve Güneşli Metro mağazalarında alkol ve tütün hariç 5.000 TL alışverişe kupon verilir. Kişi başına ayda en fazla bir kupon kazanılabilir. Kupon ZES uygulamasına eklenip şarj başlamadan seçilmelidir; ZES Kart ve Autocharge ile başlatılan işlemler kapsam dışıdır. 30 kWh tek şarj işleminde, 31 Aralık 2026'ya kadar kullanılabilir; başka operatörlerin istasyonları ve kupon birleştirme kapsam dışıdır."
+  },
+  {
+    "title": "ZES - Vodafone Pay Kampanyası",
+    "description": "Vodafone Pay ile %15, toplam en fazla 500 TL nakit iade.",
+    "companyName": "ZES",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 24 Temmuz–31 Aralık 2026. Harcamadan önce Vodafone Pay uygulamasındaki ZES kampanyasına katılmak ve uygun fiziksel veya sanal Vodafone Pay Kart ile ödeme yapmak gerekir. Nakit iade yüklenirken aktif bir Vodafone Pay Kart bulunmalıdır. Diğer Vodafone Pay kart kampanyalarıyla birleştirilemez."
+  },
+  {
+    "title": "ZES - Pirelli Kampanyası",
+    "description": "4 adet Pirelli ELECT lastiğe 1.250 TL ZES şarj desteği.",
+    "companyName": "ZES",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 2 Kasım–30 Aralık 2026. Katılımcı HerLastik bayilerinden tek seferde en az 4 Pirelli ELECT oto/SUV lastiği alınmalı, My Pirelli üzerinden fatura ile 30 Aralık'a kadar başvurulmalıdır. İnternet alışverişleri hariçtir. Kampanya 1.250 kodla sınırlıdır. Kodlar ZES uygulamasına eklenir ve 30 Eylül 2027'ye kadar kullanılabilir; roaming istasyonları hariçtir."
+  },
+  {
+    "title": "ZES - Anadolu Sigorta Kampanyası",
+    "description": "Aktif bireysel kasko müşterilerine %10 şarj indirimi.",
+    "companyName": "ZES",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 20 Ocak–31 Aralık 2026. Anadolu Sigorta'da aktif kaskosu bulunan bireysel müşteriler, Sigortam Cepte'den ayda bir aldıkları kodla ZES'in işlettiği halka açık AC, DC ve HPC istasyonlarında güncel tarife üzerinden %10 indirimden yararlanabilir. Kurumsal müşteriler kapsam dışıdır."
+  },
+  {
+    "title": "ZES - TAV Kampanyası",
+    "description": "TAV Passport müşterilerine ayda bir kez %15 şarj indirimi.",
+    "companyName": "ZES",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 5 Mayıs–31 Aralık 2026. Bireysel ZES müşterisi olan TAV Passport kullanıcıları halka açık AC, DC ve HPC soketlerinde ayda bir kez %15 indirimden yararlanabilir. Solarşarj ve kurumsal müşteriler kapsam dışıdır."
+  },
+  {
+    "title": "WAT - Ford Kullanıcılarına Özel İndirim",
+    "description": "Uygun Ford elektrikli araç kullanıcılarına AC ve DC şarjda %4 indirim.",
+    "companyName": "WAT",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 3 Kasım–31 Aralık 2026. Ford elektrikli araç kullanıcıları ve araç alımında 10.000 TL şarj bakiyesi bulunan bireysel kullanıcılar için yayımlanan teklif, WAT'ın işlettiği istasyonlarda kredi kartıyla yapılan işlemleri kapsar. Roaming, filo ve kurumsal işlemler hariçtir; diğer kampanyalarla birleştirilemez."
+  },
+  {
+    "title": "WAT - Worldpuan Kampanyası",
+    "description": "Farklı günlerde 400 TL ve üzeri şarja toplam 435 TL'ye kadar Worldpuan.",
+    "companyName": "WAT",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 15 Ekim–30 Kasım 2026. İlk işlemden önce World Mobil'den katılmak gerekir. Uygun Yapı Kredi bireysel kredi kartı veya TLcard ile WAT uygulamasında Yapı Kredi POS'undan geçen işlemlerde ilk üç uygun harcamaya 100'er TL, dördüncüye 135 TL Worldpuan verilir. Günlük ilk uygun işlem sayılır. Puanlar 7 Aralık 2026'da yüklenir; son kullanım 6 Ocak 2027'dir."
+  },
+  {
+    "title": "WAT - Salı Mode ON Kampanyası",
+    "description": "17 Kasım'dan itibaren salı günleri AC ve DC şarjda %10 indirim.",
+    "companyName": "WAT",
+    "isNew": true,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 17 Kasım–29 Aralık 2026 arasındaki salı günleri, Türkiye saatiyle 00.00–23.59. 15 Kasım 2026 itibarıyla henüz başlamamıştır. WAT uygulamasına kayıtlı bireysel kullanıcıların, WAT'ın işlettiği AC ve DC ünitelerde kayıtlı kredi kartıyla ödediği işlemlere %10 indirim otomatik uygulanır; kod gerekmez. Şarjın salı günü başlaması esas alınır; ertesi güne uzayan işlemler de yararlanır. Roaming, kurumsal ve filo işlemleri hariçtir; başka indirimlerle birleştirilemez."
+  },
+  {
+    "title": "Trugo - Togg Özel Kampanyası",
+    "description": "Togg sahiplerine Trugo DC şarj istasyonlarında %20 indirim.",
+    "companyName": "Trugo",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "7 Ağustos 2026 tarihli resmî duyuruda Togg sahiplerine Trugo DC şarj istasyonlarında %20 indirim açıklanmıştır. Kampanya bitiş tarihi belirtilmemiştir. Duyuruda VIN eşleştirme veya otomatik indirim adımlarına ilişkin ayrıntı verilmemiştir; katılım koşulları Trugo uygulamasından kontrol edilmelidir."
+  },
+  {
+    "title": "Shell ReCharge - Ücretsiz Araç Yıkama",
+    "description": "25 kWh ve üzeri şarj yapan ilk 2.000 kişiye ücretsiz araç yıkama.",
+    "companyName": "Shell ReCharge",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 15 Kasım–15 Aralık 2026. Shell Recharge uygulaması üzerinden 25 kWh ve üzeri şarj yapan ilk 2.000 kullanıcı, kişi başı bir yıkama hakkı kazanır. Kod, kampanya bitiminden itibaren 3 iş günü içinde SMS ile gönderilir. Yalnızca kampanyaya dahil istasyonlarda 18 Ocak 2027'ye kadar kullanılabilir. Stokla sınırlıdır ve başka kampanyalarla birleştirilemez."
+  },
+  {
+    "title": "Shell ReCharge - Garanti BBVA Bonus Kampanyası",
+    "description": "500 TL ve üzeri şarja %50, toplam en fazla 750 TL bonus.",
+    "companyName": "Shell ReCharge",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 23 Ekim–30 Kasım 2026. İlk harcamadan önce BonusFlaş'tan katılmak gerekir. Shell Recharge uygulamasında uygun Garanti BBVA kredi kartıyla Garanti POS'undan geçen, tek seferde 500 TL ve üzeri işlemler kapsam dahilindedir; günde bir işlem sayılır. Bonuslar 3 Aralık 2026–3 Ocak 2027 arasında kullanılabilir. Bonus Paracard ve Altın Bonus kapsam dışıdır; başka kampanyalarla birleştirilemez."
+  },
+  {
+    "title": "Voltrun - Evim + İşyerim İndirimi",
+    "description": "Seçilen iki istasyonda AC şarja %15, DC şarja %5 indirim.",
+    "companyName": "Voltrun",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "3 Mart 2026'dan itibaren geçerlidir; bitiş tarihi belirtilmemiştir. Voltrun üyeleri uygulamadaki Puanlarım ve İndirimlerim > İndirimlerim bölümünden iki istasyon seçer. Seçimler 3 ay değiştirilemez. İndirim yalnızca seçili istasyonlarda geçerlidir ve diğer kampanyalarla birleştirilemez."
+  },
+  {
+    "title": "EŞarj - iPhone 18 Pro Max ve PS5 Slim Çekilişi",
+    "description": "Her 350 TL şarj ödemesine, 2 iPhone ve 3 PS5 için bir çekiliş hakkı.",
+    "companyName": "EŞarj",
+    "isNew": true,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 8 Kasım 2026 00.01–15 Aralık 2026 23.59. Bireysel üyeler, şarj öncesinde EŞarj uygulamasında Menü > Hesabım altındaki kampanya sayfasından katılım onayı vermelidir. EŞarj'ın işlettiği istasyonlardaki şarj ödemelerinin her 350 TL'si için bir çekiliş hakkı verilir; hediye bakiye düşüldükten sonra fiilen ödenen tutar esas alınır. Diğer operatörler, ev tipi istasyonlar, kurumsal üyeler ve 18 yaşından küçükler kapsam dışıdır. Çekiliş 23 Aralık 2026'da yapılır; 2 kişiye iPhone 18 Pro Max 256 GB, 3 kişiye PS5 Slim DualSense Bundle 1 TB verilir. Sonuçlar 25 Aralık 2026'da Sabah Gazetesi'nde duyurulur. Kişi başına en fazla bir ödül kazanılabilir."
+  },
+  {
+    "title": "EnYakıt - Miles&Smiles Mil Kazanımı",
+    "description": "Şarj tüketiminizle üyelik seviyenize göre kWh başına 1 veya 1,5 Mil.",
+    "companyName": "EnYakıt",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Başlangıç ve bitiş tarihi belirtilmemiştir. EnYakıt uygulamasına Miles&Smiles TK numarası kaydedilmelidir. Classic ve Classic Plus üyeleri satın alınan her kWh için 1 Mil; Elite ve Elite Plus üyeleri 1,5 Mil kazanır. Her şarj hizmetinden yalnızca bir kez Mil kazanılır."
+  },
+  {
+    "title": "EnYakıt - Shop&Miles ile Şarj",
+    "description": "Miles&Smiles Millerini şarj bakiyesine dönüştürün.",
+    "companyName": "EnYakıt",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Başlangıç ve bitiş tarihi belirtilmemiştir. EnYakıt uygulamasındaki Shop&Miles – Mil Harca bölümünde Miles&Smiles hesabınızı bağlayıp Milleri kWh bakiyesine dönüştürebilirsiniz. Bakiye tüm EnYakıt istasyonlarında uygulama üzerinden kullanılabilir ve yüklemeden itibaren 1 yıl geçerlidir. Her EnYakıt hesabına bir Miles&Smiles hesabı bağlanabilir; dönüştürülen Miller iade edilmez."
+  },
+  {
+    "title": "EnYakıt - Starbucks Yıldız Kampanyası",
+    "description": "Aynı plakada aylık her 200 kWh şarja 15 Starbucks yıldızı.",
+    "companyName": "EnYakıt",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Başlangıç ve bitiş tarihi belirtilmemiştir. Şarjdan önce EnYakıt uygulamasındaki Starbucks bölümünden kampanyaya katılmak gerekir. Kayıtlı karttan ödenen şarjlar için takvim ayında aynı plakanın her 200 kWh tüketimine bir Stars Code verilir; plaka başına aylık en fazla 10 kod kazanılır. Her kod Starbucks uygulamasında 15 yıldız yükler. Yıldızlar yüklemeden itibaren 30 gün geçerlidir; farklı plakaların tüketimleri birleştirilemez."
+  },
+  {
+    "title": "BeeFull - Sigortam.net İndirimi",
+    "description": "Yeni poliçelerde kaskoya %10, sağlığa %7, trafiğe %4 indirim.",
+    "companyName": "BeeFull",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "31 Aralık 2026'ya kadar geçerlidir. Sigortam.net'in yeni iş müşterileri, BeeFull uygulamasındaki Kampanyalar bölümünden aldıkları kodu poliçe ödemesinde kullanmalıdır. Yenilemeler kapsam dışıdır. Trafik ve kasko indirimi elektrikli araç sahiplerine özeldir. İndirim 7 iş günü içinde ödeme yapılan kredi kartına iade edilir; diğer kampanyalarla birleştirilemez."
+  },
+  {
+    "title": "Astor - İşgaliye Bedeli 0 TL",
+    "description": "AC ve DC şarj noktalarında işgaliye bedeli 0 TL/dakika.",
+    "companyName": "Astor",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "15 Kasım 2026 kontrolünde resmî tarifede AC ve DC işgaliye bedeli 0,00 TL/dakika olarak yayımlanmaktadır. Başlangıç ve bitiş tarihi belirtilmemiştir. Şarj enerjisi ayrıca güncel kWh tarifesi üzerinden ücretlendirilir."
+  },
+  {
+    "title": "Aksa - Duru Park Konutları Açılış İndirimi",
+    "description": "Duru Park Konutları 2 istasyonunda bireysel müşterilere %15 indirim.",
+    "companyName": "Aksa",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 12 Kasım–12 Aralık 2026. Duru Park Konutları 2'nin halka açık ünitelerinde güncel soket tarifesinden %15 indirim uygulanır. Aktif ve onaylı Aksa hesabı gerekir. Kampanya, şarj başlamadan veya işlem sürerken uygulamadan seçilmelidir. Kurumsal işlemler hariçtir ve başka kampanyalarla birleştirilemez."
+  },
+  {
+    "title": "Aksa - Karaköprü Belediyesi Açılış İndirimi",
+    "description": "Karaköprü Belediyesi istasyonunda bireysel müşterilere %15 indirim.",
+    "companyName": "Aksa",
+    "isNew": false,
+    "promoCode": null,
+    "detailedDescription": "Geçerlilik: 26 Ekim–26 Kasım 2026. Karaköprü Belediyesi istasyonunun halka açık ünitelerinde güncel soket tarifesinden %15 indirim uygulanır. Aktif ve onaylı Aksa hesabı gerekir. Kampanya uygulamadan işlem öncesinde veya sırasında seçilmelidir. Kurumsal işlemler hariçtir ve başka kampanyalarla birleştirilemez."
+  }
 ]
